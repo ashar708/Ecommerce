@@ -82,8 +82,17 @@ It is made of a table which consists of all the users on the website and allows 
 ![image](https://github.com/user-attachments/assets/c6262041-a12b-4a1b-b868-2505afc13a0c)
 
 
+
 ## The Home Page - 
 
+The category section which displays us all the categories available in the database - <br/><br/><br/>
+
+![image](https://github.com/user-attachments/assets/9be1102f-9a05-404a-8f2d-47320c90d8c4)
+
+
+After the header section comes the auto Banner Product in which the images are getting scrolled after a delay of 5 seconds using the setTimout function in the useEffect hook and it starts whenever the page reloads for the first time - <br/><br/><br/>
+
+![image](https://github.com/user-attachments/assets/610f7d96-963f-48d1-81cc-4923a5a4b7ca)
 
 
 
