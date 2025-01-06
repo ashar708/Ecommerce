@@ -79,7 +79,7 @@ So there are 2 pages by default it will render the All Products Page and we have
 
 It is made of a table which consists of all the users on the website and allows us to edit the role of the users -  <br/><br/><br/>
 
-![image](https://github.com/user-attachments/assets/c6262041-a12b-4a1b-b868-2505afc13a0c)
+![image](https://github.com/user-attachments/assets/c6262041-a12b-4a1b-b868-2505afc13a0c) <br/><br/><br/>
 
 
 
@@ -97,7 +97,48 @@ After the header section comes the auto Banner Product in which the images are g
 
 The top category's product section displays all the categories which have been stored in the database along with the product details and a button with the add to cart option. <br/><br/><br/>
 
-![image](https://github.com/user-attachments/assets/8132e309-fc16-4e08-b606-6185fbc7b19b)
+![image](https://github.com/user-attachments/assets/8132e309-fc16-4e08-b606-6185fbc7b19b)<br/><br/><br/>
+
+## The Cart Page - 
+
+After adding a particular product into the cart we can just go the cart page and do the payment - 
+
+![image](https://github.com/user-attachments/assets/847ffa81-0436-4860-bc51-476960088443)
+
+
+
+We use the context api to get the products into the cart as well as increase the items in the cart product.<br/><br/>
+
+
+## The Search Page - <br/><br/><br/>
+
+If we search any product, we can use the query parameters to get to it , so we can just get the product name as the input and we can query the database with the input value and display the results by clicking on a particular category - 
+
+![image](https://github.com/user-attachments/assets/ab340e7c-34a9-4bea-8745-b1c54d38d6da)
+
+
+Clicking on any of these categories as well takes us to the search results page where the data is displayed according to the query - 
+
+
+![image](https://github.com/user-attachments/assets/135d084e-ff00-405c-8521-d5f5d1db015c)
+
+So in here we can sort the array of data into ascending as well as descending order and we can select multiple items to display and the url gets updated with the category selected as well.
+
+![image](https://github.com/user-attachments/assets/b29319d8-798f-46b8-bc4a-cae800ee51b3) <br/><br/><br/>
+
+
+## The Product Details Page - <br/><br/><br/>
+
+ It displays the product detail along with the add to cart and buy buttons which adds the product to the cart.
+
+ ![image](https://github.com/user-attachments/assets/87b47b15-40ec-4c5f-8fb5-eeb30244a7e2)
+
+ And we get the recommended products as well down the particular products detail - 
+
+ ![image](https://github.com/user-attachments/assets/20785f29-0ed1-4954-b250-e4c7fe81ba6c) <br/><br/><br/>
+
+
+
 
 
 
