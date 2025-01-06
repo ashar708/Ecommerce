@@ -73,6 +73,16 @@ So there are 2 pages by default it will render the All Products Page and we have
 
 
 
-### All Users Page - 
+### All Users Page - <br/>
+
+![image](https://github.com/user-attachments/assets/4f77911c-0396-4fc6-a0d6-7ff88a2e4edc)
+
+It is made of a table which consists of all the users on the website and allows us to edit the role of the users -  <br/><br/><br/>
+
+![image](https://github.com/user-attachments/assets/c6262041-a12b-4a1b-b868-2505afc13a0c)
+
+
+
+
 
 
