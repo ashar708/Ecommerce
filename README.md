@@ -139,6 +139,31 @@ So in here we can sort the array of data into ascending as well as descending or
 
 
 
+## The payment gateway using the Stripe API Integration - <br/><br/><br/>
+
+Once we click on the checkout and payments button we can get to the stripe payment gateway - 
+
+![image](https://github.com/user-attachments/assets/73e10ced-bc23-49de-b07c-419b3c481c2c)
+
+
+Using the webhooks we can get the detail of a particular payment using the test mode for local development like the shipping details, payment details, order details and we can utilize them by creating an Orders page - 
+
+![image](https://github.com/user-attachments/assets/68bac48b-6ba7-44f8-be1d-3f949fee8ca7)
+
+Clicking on the See Orders section takes us to the order page - 
+
+
+![image](https://github.com/user-attachments/assets/1b8250bc-5cee-4e57-b066-dc192b77a211)
+
+The orders page has orders which are arranged according to the date. <br/><br/><br/><br/><br/>
+
+
+
+
+Thank you for giving your time !!!!
+
+
+
 
 
 
