@@ -7,11 +7,11 @@
 2. Login Page
 3. SignUp Page
 4. Admin Panel- 
-    i.)  All Products Page
-    ii.) All Users Page
+    - All Products Page
+    - All Users Page
 5. Category Page
 6. Product Details Page
 7. Search Product Page
 8. Order Page - 
-   i.)  Success Page
-   ii.) Cancel Page
+   - Success Page
+   - Cancel Page
