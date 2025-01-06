@@ -38,5 +38,15 @@ The Users Database in MongoDB - <br/>
 The password is hashed using bcrypt - A library for securing passwords.
 
 
+After getting signed In the a session is created using the JWT Token and passed to the client side using the payload and the cart, profile pic icons get rendered - <br/>
+
+![image](https://github.com/user-attachments/assets/c14157e3-7865-4cc7-8259-a52efcd6d803)
+
+So we get a toastify message which comes from the react-toastify on Successfully getting logged In. 
+
+
+
+
+
 
 
