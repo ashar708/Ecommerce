@@ -95,4 +95,10 @@ After the header section comes the auto Banner Product in which the images are g
 ![image](https://github.com/user-attachments/assets/610f7d96-963f-48d1-81cc-4923a5a4b7ca)
 
 
+The top category's product section displays all the categories which have been stored in the database along with the product details and a button with the add to cart option. <br/><br/><br/>
+
+![image](https://github.com/user-attachments/assets/8132e309-fc16-4e08-b606-6185fbc7b19b)
+
+
+
 
