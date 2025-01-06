@@ -15,3 +15,7 @@
 8. Order Page - 
    - Success Page
    - Cancel Page
+
+
+### The Header Component - Comprises of 3 parts the website icon, the search bar to search the products and the login page clicking the login button takes us to the login page and where we can switch between login and signup and store the user details using the MongoDB by creating a configuration in the backend.
+
